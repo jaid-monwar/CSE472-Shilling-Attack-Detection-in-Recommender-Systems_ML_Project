@@ -1,0 +1,2 @@
+model_checkpoint_path: "ml100k_UAutoRec_AUSHplus_62"
+all_model_checkpoint_paths: "ml100k_UAutoRec_AUSHplus_62"
