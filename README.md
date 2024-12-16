@@ -8,7 +8,7 @@
 
 ### Movie Lens 100K
 
-![Movie Lens 100K results](images/overall_architecture.png)
+![Movie Lens 100K results](images/movie_lens_100k.png)
 
 ### Tool Home
 
