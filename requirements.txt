@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+sdv
+ipykernel
+ctgan
+tgan
+pandas-profiling 
+sweetviz
+tensorflow
+sdmetrics
+nbformat>=4.2.0
